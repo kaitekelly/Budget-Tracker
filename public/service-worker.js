@@ -4,7 +4,11 @@ const FILES_TO_CACHE = [
     "/",
     "/index.html",
     "/index.js",
-    "/style.css"
+    "/style.css",
+    "public/icons/icon-192x192.png",
+    "public/icons/icon-512x512.png",
+    "routes/api.js",
+
     // Do I need to add the dist/bundle.js files to these?
     // "/dist/app.bundle.js",
     // "/dist/favorites.bundle.js",
