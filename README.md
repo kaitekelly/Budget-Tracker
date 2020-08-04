@@ -12,13 +12,13 @@ kaitekelly 👩🏻‍💻
 Online / Offline Budget Tracker
 
 # Link to Deployed Site:
-
+https://fierce-sierra-49432.herokuapp.com/
 
 # Link to Repo:
 🚀 https://github.com/kaitekelly/Budget-Tracker
 
 # Description:
-💻 
+💻 A simple application to track expenses and budget. 
 
 # Installation: 
 💾 In the command line of the working directory, install the following NPM packages: NPM install, express, mongoose, glob, mlab
@@ -28,6 +28,7 @@ A simple application used for budget tracking.
 
 
 # Screenshot of application in use:
+![Screen Shot 2020-08-03 at 1 08 33 PM](https://user-images.githubusercontent.com/61023907/89257534-3ad7d980-d5db-11ea-9cd7-bce85a5d2875.png)
 
 
 
