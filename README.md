@@ -21,10 +21,10 @@ Online / Offline Budget Tracker
 💻 
 
 # Installation: 
-💾 In the command line of the working directory, install the following NPM packages: NPM install, express.
+💾 In the command line of the working directory, install the following NPM packages: NPM install, express, mongoose, glob, mlab
 
 # Usage: 
-
+A simple application used for budget tracking. 
 
 
 # Screenshot of application in use:
